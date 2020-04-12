@@ -1,9 +1,11 @@
-Display UI with 2 select lists for countries and 2 inputs for amounts.
+## Exchange Rate
 
-Fetch exchange rates from API (https://api.exchangerate-api.com).
+Select countries to get the exchange rate for a specific amount
 
-Display the values for both countries.
+## Project Specifications
 
-Update values on amount change.
-
-Swap country rates.
+- Display UI with 2 select lists for countries and 2 inputs for amounts
+- Fetch exchange rates from API (https://api.exchangerate-api.com)
+- Display the values for both countries
+- Update values on amount change
+- Swap country rates
